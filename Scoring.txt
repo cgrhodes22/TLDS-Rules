@@ -1,0 +1,64 @@
+#Scoring for All Matchups
+
+##Passing
+Passing Yards (PY)0.04
+TD Pass (PTD)4
+Interceptions Thrown (INT)-2
+2pt Passing Conversion (2PC)2
+
+##Rushing
+Rushing Yards (RY)0.1
+TD Rush (RTD)6
+2pt Rushing Conversion (2PR)2
+
+##Receiving
+Receiving Yards (REY)0.1
+Each reception (REC)1
+TD Reception (RETD)6
+2pt Receiving Conversion (2PRE)2
+
+##Kicking
+Each PAT Made (PAT)1
+Total FG Missed (FGM)-1
+FG Made (0-39 yards) (FG0)3
+FG Made (40-49 yards) (FG40)4
+FG Made (50-59 yards) (FG50)5
+FG Made (60+ yards) (FG60)5
+
+##Team Defense / Special Teams
+Kickoff Return TD (KRTD)6
+Punt Return TD (PRTD)6
+Interception Return TD (INTTD)6
+Fumble Return TD (FRTD)6
+Blocked Punt or FG return for TD (BLKKRTD)6
+Each Sack (SK)1
+Blocked Punt, PAT or FG (BLKK)2
+Each Interception (INT)2
+Each Fumble Recovered (FR)2
+Each Safety (SF)2
+0 points allowed (PA0)10
+1-6 points allowed (PA1)7
+7-13 points allowed (PA7)4
+14-17 points allowed (PA14)1
+22-27 points allowed (PA22)-1
+28-34 points allowed (PA28)-4
+35-45 points allowed (PA35)-7
+46+ points allowed (PA46)-10
+
+##Miscellaneous
+Kickoff Return TD (KRTD)6
+Punt Return TD (PRTD)6
+Fumble Recovered for TD (FTD)6
+Total Fumbles Lost (FUML)-2
+Fumble Return TD (FRTD)6
+
+##Defensive Players
+Each Sack (SK)1
+Blocked Punt, PAT or FG (BLKK)4
+Each Interception (INT)4
+Each Fumble Recovered (FR)2
+Each Fumble Forced (FF)3
+Each Safety (SF)2
+Assisted Tackles (TKA)0.5
+Solo Tackles (TKS)1
+Passes Defensed (PD)0.5

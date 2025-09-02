@@ -1,0 +1,21 @@
+##Roster Rules
+
+Roster Size: 16
+Total Starters: 9
+Total on Bench: 7
+
+Position/Starters/Maximums
+Quarterback (QB)/1/2
+Running Back (RB)/1/5
+Wide Receiver (WR)/2/6
+Tight End (TE)/1/3
+Flex (FLEX)/1/N/A
+Defensive Tackle (DT)/0/2
+Defensive End (DE)/0/2
+Linebacker (LB)/0/2
+Cornerback (CB)/0/2
+Safety (S)/0/2
+Defensive Player Utility (DP)/1N/A
+Team Defense/Special Teams (D/ST)/1/2
+Place Kicker (K)/1/2
+Bench (BE)/7/N/A

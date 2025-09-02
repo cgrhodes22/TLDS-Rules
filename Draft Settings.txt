@@ -1,0 +1,13 @@
+Draft Type is Auction using standard ESPN format
+
+Each Owner is given $200 at beginning of round
+
+Draft Order is randomized and straight order. Owner nominates a player, and all are allowed to bid as an auction up until they exhaust their reserves. When all roster spots are filled, the draft ends.
+
+The first two rounds include keepers. If keepers are specified, they are automatically selected by the team and the money is allocated. Money allocation as specified in the Keeper Rules Sheet.
+
+If an owner cannot attend, they can edit the autodraft behavior to set the number off RBs, WRs, etc it will draft, and/or tell it which round to take which position. If you are autodrafting, it is highly encouraged for you to set those rules beforehand.
+
+Keep in mind, the commish’s powers during the draft are limited, LMs will accommodate as much as possible, but there is only so much they can do once the draft starts rolling.
+
+We will start with 1 minute to nominate players, and time to make selections will decrease in the later rounds when proposed with a poll in the chat.
