@@ -1,10 +1,10 @@
-##Roster Rules
+## Roster Rules
 
 Roster Size: 16
 Total Starters: 9
 Total on Bench: 7
 
-Position/Starters/Maximums
+## Position/Starters/Maximums
 Quarterback (QB)/1/2
 Running Back (RB)/1/5
 Wide Receiver (WR)/2/6

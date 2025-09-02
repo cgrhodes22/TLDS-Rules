@@ -1,23 +1,23 @@
-#Scoring for All Matchups
+# Scoring for All Matchups
 
-##Passing
+## Passing
 Passing Yards (PY)0.04
 TD Pass (PTD)4
 Interceptions Thrown (INT)-2
 2pt Passing Conversion (2PC)2
 
-##Rushing
+## Rushing
 Rushing Yards (RY)0.1
 TD Rush (RTD)6
 2pt Rushing Conversion (2PR)2
 
-##Receiving
+## Receiving
 Receiving Yards (REY)0.1
 Each reception (REC)1
 TD Reception (RETD)6
 2pt Receiving Conversion (2PRE)2
 
-##Kicking
+## Kicking
 Each PAT Made (PAT)1
 Total FG Missed (FGM)-1
 FG Made (0-39 yards) (FG0)3
@@ -25,7 +25,7 @@ FG Made (40-49 yards) (FG40)4
 FG Made (50-59 yards) (FG50)5
 FG Made (60+ yards) (FG60)5
 
-##Team Defense / Special Teams
+## Team Defense / Special Teams
 Kickoff Return TD (KRTD)6
 Punt Return TD (PRTD)6
 Interception Return TD (INTTD)6
@@ -45,14 +45,14 @@ Each Safety (SF)2
 35-45 points allowed (PA35)-7
 46+ points allowed (PA46)-10
 
-##Miscellaneous
+## Miscellaneous
 Kickoff Return TD (KRTD)6
 Punt Return TD (PRTD)6
 Fumble Recovered for TD (FTD)6
 Total Fumbles Lost (FUML)-2
 Fumble Return TD (FRTD)6
 
-##Defensive Players
+## Defensive Players
 Each Sack (SK)1
 Blocked Punt, PAT or FG (BLKK)4
 Each Interception (INT)4

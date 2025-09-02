@@ -1,3 +1,5 @@
+#Draft Settings
+
 Draft Type is Auction using standard ESPN format
 
 Each Owner is given $200 at beginning of round

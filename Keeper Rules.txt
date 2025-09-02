@@ -1,3 +1,5 @@
+# Keeper Rules
+
 Up to 2 Keepers are permitted to be selected for the Draft.
 
 Keeper Price Inflates at a rate of XX% YoY for the duration they are held by the owner.
